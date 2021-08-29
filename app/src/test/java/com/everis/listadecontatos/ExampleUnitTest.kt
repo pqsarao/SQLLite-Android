@@ -1,4 +1,4 @@
-package com.example.listadecontatos_sqllite
+package com.everis.listadecontatos
 
 import org.junit.Test
 
